@@ -2,3 +2,4 @@ This project was the final assignment for the Machine Learning class I took in c
 The point of the project is to make predictions on if a Quarterback in the NFL will make the Hall of Fame. The model takes many statistics to train the model used from 
 Quarterbacks who are eligible to make the Hall of Fame, but the fully tested model should be able to make predictions on any Quarterback.
 For comparisson purposes, I used both a perceptron and a logistic regression model, and tested both of them to see which one would preform better.
+These results would be compared to general opinions on which quarterbacks would make the Hall of Fame, once they are eligible.
